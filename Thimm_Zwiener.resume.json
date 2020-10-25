@@ -1,0 +1,420 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Thimm Zwiener",
+    "label": "Machine Learning Engineer at Radix",
+    "image": "",
+    "email": "zwiener@googlemail.com",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "Brussels, Brussels Capital Region, Belgium",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "thimm-zwiener-9166b7161",
+        "url": "https://www.linkedin.com/in/thimm-zwiener-9166b7161/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Radix",
+      "endDate": "",
+      "highlights": [],
+      "position": "Machine Learning Engineer",
+      "startDate": "2019-11-30",
+      "url": ""
+    },
+    {
+      "name": "tzwe consulting (tzwe.eu)",
+      "endDate": "",
+      "highlights": [],
+      "position": "Data & Machine Learning Specialist",
+      "startDate": "2018-09-30",
+      "summary": "Provided services to small and medium sized companies with specific data driven challenges. The focus of the projects lay mainly on algorithm development and the implementation of hosted or self hosted data work platforms which allow a fast and iterative way to process clients data.\n\nFor Instaon (instaon.io):\n• Created a bidding optimisation algorithm for google adwords using Lagrange Multiplier optimisation.\n• Setup a flask and celery based machine learning api.\n• Dockerised and setup SageMaker machine learning environment on AWS.\n• Automated adwords text generation using the GPT2 algorithm from openai.\n\nFor Cartel Damage Claims:\n• Setup a data work infrastructure using jupyterhub, python, R, and SAS.\n• Co-managed a team of jobstudents providing them with tasks and oversaw their work for the biggest cartel litigation in Europe.\n• Created a workflow in python for the economical pre-assessment of potential cases.",
+      "url": ""
+    },
+    {
+      "name": "CDC Cartel Damage Claims",
+      "endDate": "2018-08-31",
+      "highlights": [],
+      "position": "Data Analyst",
+      "startDate": "2017-06-30",
+      "summary": "Part of a multidisciplinary and multinational data analysis team for antitrust damage litigations in Europe. Main tasks include the collection, standardization, evaluation and presentation of economic data, as well as the communication with damaged companies on economic and data-related aspects. The matter of antitrust litigations against big global companies requires great attention to detail and the ability to write readable and intelligible code that withstands the review of the litigation’s objection.",
+      "url": ""
+    },
+    {
+      "name": "University of Tübingen",
+      "endDate": "2016-09-30",
+      "highlights": [],
+      "position": "Student Assistant at the Geographical Insitute",
+      "startDate": "2014-05-31",
+      "summary": "Collected ground truth data in Kigali for the rapid planning project and my bachelor thesis. Used this data to create\nclassification maps of the city. Creating landcover classification maps of Rwanda using eCognition and Landsat 8 data.\nProgramming routines in Matlab for edge detector comparison using SAR images. Analyzing Pin Board measurements\nfrom soil surface height variations using close range photogrammetry with the software ENVI and IDL. Object oriented\nanalyzes of vertical close range photogrammetry in eCognition to evaluate surface roughness. Cowriting revising and\ntranslating papers and publications. Preparing ArcGIS data for a geodata management course for people working in\npublic services.",
+      "url": ""
+    },
+    {
+      "name": "University of Tübingen",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "position": "Personal Trainer",
+      "startDate": "2013-10-31",
+      "summary": "Instructed 20 minute fitness courses for employees of the university and for the employees of the Volks-Bank Tübingen\nin there offices . The courses emphasized on relaxation and prevention of back pain. The number of participants varied\nfrom 2-20. Contact person for questions regarding health, sports, and nutrition concerns.",
+      "url": ""
+    },
+    {
+      "name": "German Aerospace Center (DLR)",
+      "endDate": "2016-05-31",
+      "highlights": [],
+      "position": "Internship",
+      "startDate": "2016-03-31",
+      "summary": "Part of a team at the department for remote sensing technologies. Classified and segmented remote sensing data with\nartificial neural networks. Adapted existing neural networks to be used with scenes taken by satellites and drones. Used\nthe framework caffe to train these neural networks on Pleiades satellite data. Programmed a script to simplify the\ncalibration of DSMs with points taken by a total station. Attended a campaign to the Baltic Sea, taking spectral\nmeasurements to calibrate hyper-spectral data for bathemetric mappings.",
+      "url": ""
+    },
+    {
+      "name": "Institute for Ancient Near Eastern Studies – IANES, Tübingen",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "position": "Student Research Assistant",
+      "startDate": "2015-07-31",
+      "summary": "Attended a two months field survey in the Kurdistan region of the Republic of Iraq. Obtained magnetic measurements\nof a tell and its surroundings close to the city of Dohuk. Working with a gradiometer, total station, and DGPS.",
+      "url": ""
+    },
+    {
+      "name": "BG-Unfallklinik Tübingen",
+      "endDate": "2013-08-31",
+      "highlights": [],
+      "position": "Nursing Internship",
+      "startDate": "2013-04-30",
+      "summary": "Worked with geriatric patients in the surgical ward of the hospital.",
+      "url": ""
+    },
+    {
+      "name": "Cypress Mountain",
+      "endDate": "2012-03-31",
+      "highlights": [],
+      "position": "Lift Operator",
+      "startDate": "2011-10-31",
+      "summary": "Maintained a safe environment around the lifts by complying with procedures, rules, and regulations. First contact person for customers with concerns and emergency reports.",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "YFU Germany - Deutsches Youth For Understanding Komitee e.V.",
+      "position": "Volunteer",
+      "url": "https://www.linkedin.com/company/218517",
+      "startDate": "2009-12-31",
+      "endDate": "2012-12-31",
+      "summary": "Voluntary work for the German Youth for Understanding e.V (YFU): Arranged English tests for students that will study abroad in the US.\nVoluntary work for Colored Glasses (Associated with YFU): Held workshops in schools in Germany about racism, mobbing and multiculturalism.",
+      "highlights": []
+    },
+    {
+      "organization": "Baptisten Gemeinde",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2006-12-31",
+      "endDate": "2009-12-31",
+      "summary": "Voluntary work at summer camps, organized by the baptist youth organization of Baden-Württemberg.",
+      "highlights": []
+    },
+    {
+      "organization": "ISP - International Student Platform at the VUB",
+      "position": "Student Volunteer",
+      "url": "",
+      "startDate": "2016-12-31",
+      "endDate": "2017-12-31",
+      "summary": "Member of the International Student Platform of the Vrije Universiteit Brussel: Representative of the international student community and advisory for the student council.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vrije Universiteit Brussel",
+      "area": "Geographic Information Science and Cartography",
+      "studyType": "Master's degree",
+      "startDate": "2016-12-31",
+      "endDate": "2018-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Jagiellonian University",
+      "area": "Geography",
+      "studyType": "Bachelor's degree",
+      "startDate": "2014-12-31",
+      "endDate": "2015-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Elwood Community High School and Purdue University, Indiana, USA",
+      "area": "",
+      "studyType": "",
+      "startDate": "2008-12-31",
+      "endDate": "2009-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Tübingen",
+      "area": "Geography, Physics, General Science and Physical education",
+      "studyType": "Bachelor's degree",
+      "startDate": "2012-12-31",
+      "endDate": "2016-12-31",
+      "gpa": "2",
+      "courses": []
+    },
+    {
+      "institution": "Karl-von-Frisch Gymnasium",
+      "area": "",
+      "studyType": "Abitur",
+      "startDate": "",
+      "endDate": "2011-12-31",
+      "gpa": "2.1",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Comparative Analysis of Edge Detection Techniques for SAR Images.",
+      "publisher": "European Journal of Remote Sensing",
+      "releaseDate": "2016-06-01",
+      "website": "https://doi.org/10.5721/EuJRS20164912",
+      "summary": "Paleo-shorelines and ancient lake terraces east of Lake Manyara in Tanzania were identified from the backscatter intensity of Terra SAR-X StripMap images. Because of their linear alignment, edge detector algorithms were applied to delineate these morphological structures from those Synthetic Aperture Radar scenes. Due to the physical properties of microwave signals, this application has proven to be a challenging task for edge detectors. This study compares the performance of different combinations of speckle reduction techniques and edge operator in detecting linear paleo-shorelines. The Roberts, Sobel, Laplacian of Gaussian and the Canny edge detector algorithms were applied to extract and revise those linear structures. The comparison shows that the Canny edge detector is especially suitable for images with strong speckle noise. Canny achieves relatively high accuracies compared to the other operators. The stronger the filtering and speckle noise reduction, the better the performance of the other edge detection operators, compared to the Canny edge detector. The application of a wavelet transformation reduces the presence of artifacts resulting from speckle noise and emphasizes the detection of the target features."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PyTorch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "sql",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quantum GIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS SageMaker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scikit-Learn",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GRASS GIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jupyterhub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GDAL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Neural Networks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Natural Language Processing (NLP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "numpy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Qgis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photogrammetry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Neuro-Linguistic Programming (NLP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flask",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NumPy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Caffe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Adwords",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "German",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Windows",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Applied Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Rock Climbing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "pytorch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geographic Information Systems (GIS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jupyter",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Remote Sensing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "pandas",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
